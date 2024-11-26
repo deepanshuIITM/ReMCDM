@@ -2,7 +2,7 @@
 
 **Preliminary Requirements**
 
-    [1] _pymoo_ toolbox [1] is used for writing scripts.
+    [1] _pymoo_ toolbox [1] is used for writing scripts. Ensure the _pymoo_ version and use ElementwiseProblem 
 
     [2] Dependencies: Numpy, math, matplotlibmpl_toolkits, etc. 
 
